@@ -6,5 +6,6 @@ package com.insta;
 public class App {
     public static void main(String[] args) {
         System.out.println("hey look at me");
+        System.out.println("your wasting time");
     }
 }
